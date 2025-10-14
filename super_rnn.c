@@ -549,7 +549,7 @@ int main() {
     
 
     double X[] = {1, 2, 3, 4};
-    double target[] = {2, 3, 4, 5};
+    double target[] = {2, 3, 4, 5};  //ROP
     size_t n = sizeof(X) / sizeof(*X);
     
 
