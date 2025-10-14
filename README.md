@@ -221,10 +221,10 @@ Security report saved to /tmp/security_report.txt
 
 <p align="center">
   <a href="LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/License-MIT-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Copyright-©%202025%20GUIAR%20OQBA-lightgrey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Made%20with-💻%20and%20❤️%20from%20Algeria-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Copyright-©%202025%20GUIAR%20OQBA-2F4F4F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made%20with-💻%20%26%20❤️%20from%20Algeria-006400?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ---
